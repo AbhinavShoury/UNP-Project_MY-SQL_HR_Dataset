@@ -10,3 +10,7 @@ Key Highlights:
 5) Informative SQL Queries: A set of SQL queries is provided to analyze the data in the Human_Resources database, covering aspects such as employee distribution, salary analysis, department performance, and recruitment source analysis. These queries can help the organization make informed decisions based on the data.
 
 PDF: https://drive.google.com/file/d/1ukiM5xw6Zsw0FLtCEAXhsNvIweM95qjY/view?usp=drive_link
+
+
+
+  
